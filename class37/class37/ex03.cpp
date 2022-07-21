@@ -1,4 +1,4 @@
-// 3. ´ÙÀ½ ÇÁ·Î±×·¥ÀÇ ½ÇÇà °á°ú´Â?
+ï»¿// 3. ë‹¤ìŒ í”„ë¡œê·¸ëž¨ì˜ ì‹¤í–‰ ê²°ê³¼ëŠ”?
 #include <stdio.h>
 
 void rec(int n)

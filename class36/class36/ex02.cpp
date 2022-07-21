@@ -1,7 +1,7 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 // call-by-value
-void printArr(int (* arr)[3]) // 2Â÷¿ø ¹è¿­Àº ¹è¿­Æ÷ÀÎÅÍ¿¡ ³ÖÀ» ¼ö ÀÖ´Ù.
+void printArr(int (* arr)[3]) // 2ì°¨ì› ë°°ì—´ì€ ë°°ì—´í¬ì¸í„°ì— ë„£ì„ ìˆ˜ ìˆë‹¤.
 {
 	for (int i = 0; i < 2; i++)
 	{

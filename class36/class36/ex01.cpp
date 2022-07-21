@@ -1,7 +1,7 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
-// call-by-value : °ª¸¸ °¡Á®¿Â´Ù.
-// call-by-reference : ÂüÁ¶ °ªÀÌ ¹Ù²ï´Ù.
+// call-by-value : ê°’ë§Œ ê°€ì ¸ì˜¨ë‹¤.
+// call-by-reference : ì°¸ì¡° ê°’ì´ ë°”ë€ë‹¤.
 
 
 // int arr[4] = { 1, 2, 3, 4 };
