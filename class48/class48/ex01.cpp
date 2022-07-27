@@ -1,4 +1,4 @@
-// getchar / putchar
+ï»¿// getchar / putchar
 // gets / puts
 
 #include <stdio.h>
@@ -8,12 +8,12 @@ int main()
 	/*
 	char ch;
 
-	ch = getchar(); // ÀÔ·Â¹ŞÀº º¯¼ö¸¦ return ÇÏ´Â ÇÔ¼ö¿©¼­ ch¿¡ ³Ö¾î¾ßÇÑ´Ù.
-	putchar(ch); // Ãâ·ÂÇÏ´Â ÇÔ¼ö
+	ch = getchar(); // ì…ë ¥ë°›ì€ ë³€ìˆ˜ë¥¼ return í•˜ëŠ” í•¨ìˆ˜ì—¬ì„œ chì— ë„£ì–´ì•¼í•œë‹¤.
+	putchar(ch); // ì¶œë ¥í•˜ëŠ” í•¨ìˆ˜
 	*/
 	
 	char str[100];
 
-	gets_s(str); // ¹è¿­¿¡ ÀÔ·Â (°ø¹éÀÌ Æ÷ÇÔµÈ´Ù)
+	gets_s(str); // ë°°ì—´ì— ì…ë ¥ (ê³µë°±ì´ í¬í•¨ëœë‹¤)
 	puts(str);
 }
